@@ -1,31 +1,33 @@
-Start testing: Jun 04 12:00 EDT
+Start testing: Jun 04 13:14 EDT
 ----------------------------------------------------------
 1/2 Testing: DoublyLinkedListTest
 1/2 Test: DoublyLinkedListTest
 Command: "/Users/patrickdeigan/Documents/projects/c/staxchallenge/build/tests/DoublyLinkedListTest"
 Directory: /Users/patrickdeigan/Documents/projects/c/staxchallenge/build/tests
-"DoublyLinkedListTest" start time: Jun 04 12:00 EDT
+"DoublyLinkedListTest" start time: Jun 04 13:14 EDT
 Output:
 ----------------------------------------------------------
-[==========] Running 3 tests from 1 test suite.
+[==========] Running 4 tests from 1 test suite.
 [----------] Global test environment set-up.
-[----------] 3 tests from DoublyLinkedListTest
+[----------] 4 tests from DoublyLinkedListTest
 [ RUN      ] DoublyLinkedListTest.AppendTest
 [       OK ] DoublyLinkedListTest.AppendTest (0 ms)
 [ RUN      ] DoublyLinkedListTest.RemoveTest
 [       OK ] DoublyLinkedListTest.RemoveTest (0 ms)
 [ RUN      ] DoublyLinkedListTest.FindTest
 [       OK ] DoublyLinkedListTest.FindTest (0 ms)
-[----------] 3 tests from DoublyLinkedListTest (0 ms total)
+[ RUN      ] DoublyLinkedListTest.DisplayTest
+[       OK ] DoublyLinkedListTest.DisplayTest (0 ms)
+[----------] 4 tests from DoublyLinkedListTest (0 ms total)
 
 [----------] Global test environment tear-down
-[==========] 3 tests from 1 test suite ran. (0 ms total)
-[  PASSED  ] 3 tests.
+[==========] 4 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 4 tests.
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"DoublyLinkedListTest" end time: Jun 04 12:00 EDT
+"DoublyLinkedListTest" end time: Jun 04 13:14 EDT
 "DoublyLinkedListTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -33,7 +35,7 @@ Test Passed.
 2/2 Test: NodeTest
 Command: "/Users/patrickdeigan/Documents/projects/c/staxchallenge/build/tests/NodeTest"
 Directory: /Users/patrickdeigan/Documents/projects/c/staxchallenge/build/tests
-"NodeTest" start time: Jun 04 12:00 EDT
+"NodeTest" start time: Jun 04 13:14 EDT
 Output:
 ----------------------------------------------------------
 [==========] Running 7 tests from 1 test suite.
@@ -62,8 +64,8 @@ Output:
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"NodeTest" end time: Jun 04 12:00 EDT
+"NodeTest" end time: Jun 04 13:14 EDT
 "NodeTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Jun 04 12:00 EDT
+End testing: Jun 04 13:14 EDT
