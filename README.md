@@ -16,9 +16,9 @@ You will find the source code in the expected places for this project.
  - `./tests/*` contains the tests for Node and DoublyLinkedList
 
 ## Design Decisions
-I opted to use a templatized version of DoublyLinkedList, since the requirements did not specify an expected type for the data. 
-I chose to use CMake to manage the project, largely because it made for a quick and easy way of getting a simple project up and running without too much manual configuration.
-GoogleTest was used for the unit tests as it plays nicely with CMake, and seems to be a growing standard in the C++ community. This will avoid the need to refactor later on. 
+ - I opted to use a templatized version of DoublyLinkedList, since the requirements did not specify an expected type for the data. 
+ - I chose to use CMake to manage the project, largely because it made for a quick and easy way of getting a simple project up and running without too much manual configuration.
+ - GoogleTest was used for the unit tests as it plays nicely with CMake, and seems to be a growing standard in the C++ community. This will avoid the need to refactor later on. 
 
 ## Future Considerations
 Next iterations of this project would likely include the following, to ease the ability for the user to get information about the list:
