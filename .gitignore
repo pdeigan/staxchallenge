@@ -1,6 +1,13 @@
 #Vscode
 .vscode/
 
+#CMake
+*CMakeFiles*
+*CMakeCache.txt*
+*cmake_install*
+*CTestTestfile*
+*Makefile*
+
 # Prerequisites
 *.d
 

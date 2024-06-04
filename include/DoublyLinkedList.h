@@ -14,6 +14,8 @@ public:
     void remove(T value);
     Node<T>* find(T value);
     void displayAll();
+    Node<T>* fetchHead() { return head; }
+    Node<T>* fetchTail() { return tail; }
 
 private:
     Node<T>* head;
